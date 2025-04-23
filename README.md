@@ -158,4 +158,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Spring Boot team for the excellent framework
 - React team for the frontend framework
-- All contributors who participate in this project
